@@ -27,6 +27,7 @@ Unreal Engine 5.6 기반 Deadlock 모작 프로젝트입니다.
 
 - C++
 - Unreal Engine 5.6
+- Gameplay Ability System
 
 ### 협업
 
